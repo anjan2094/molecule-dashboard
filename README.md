@@ -1,3 +1,10 @@
+# About Moleecule Dashboard
+This is a dashboard project there have two pages one is login page another one is dasboard page.In dashboard page there have one side bar and in side bar have four link.Each link have distinct component.
+## Deployment
+I deployed to surge http://molecule-dashboard.surge.sh
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
